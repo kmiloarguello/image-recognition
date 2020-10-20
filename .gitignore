@@ -1,0 +1,10 @@
+Refs/
+*.exe
+*.pdf
+*.user
+*/Report
+*/Results
+*.zip
+.vscode/
+.ipynb_checkpoints/
+*/data
